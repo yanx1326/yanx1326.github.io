@@ -431,8 +431,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-may-2026-i-was-happy-to-co-chair-the-first-mtl-ai-hackson-from-may-8-10-and-give-a-tutorial-during-the-event-it-was-a-unique-and-rewarding-experience-with-many-inspiring-talks-from-industry-speakers",
+          title: 'May 2026: I was happy to co-chair the first MTL AI Hackson from...',
           description: "",
           section: "News",},{id: "news-may-2026-i-am-excited-to-join-macom-as-a-summer-intern-in-lowell-working-on-ai-for-rfic-design",
           title: 'May 2026: I am excited to join MACOM as a summer intern in...',
