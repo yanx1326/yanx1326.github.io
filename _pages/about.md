@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,7 +27,7 @@ I am a third-year PhD student in Electrical Engineering and Computer Science (EE
 
 As a PhD student, my research interests have gradually shifted toward Generative AI, especially language models and agentic AI for mixed-signal IC design. I am broadly interested in agentic reinforcement learning (RL), circuit representation, and AI-assisted circuit design. Please feel free to reach out if you are interested in connecting or collaborating.
 
-### Links
+Outside research, I enjoy [lead climbing, bouldering, and mountaineering](/miscellaneous/).
 
 [Email](yanx1326@mit.edu) /
 [LinkedIn](https://www.linkedin.com/in/yan-xu-1848bb260/) /
