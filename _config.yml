@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yan Xu's Website # the website title (if blank, full name will be used instead)
+title: Yan Xu # the website title (if blank, full name will be used instead)
 first_name: Yan
 middle_name:
 last_name: Xu
