@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at MIT MTL Lab.
 
 profile:
   align: right
@@ -23,7 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student in Electrical Engineering and Computer Science (EECS) at MIT, advised by Professor [Ruonan Han](https://hangroup.mit.edu/). Before joining MIT, I completed my undergraduate studies at the University of Electronic Science and Technology of China (UESTC) from 2019 to 2023. I was fortunate to work with Professor [Cheng Wang](https://scholar.google.com/citations?user=syt2VOwAAAAJ&hl=en) on high precision and high speed DAC design. I was also grateful for the opportunity to visit Rice University in 2022, where I worked in Professor [Taiyun Chi](https://chilab.info/)’s group with the wonderful mentorship of [Yingying Fan](https://engineering.washu.edu/faculty/Yingying-Fan.html), who is now an Assistant Professor at Washington University in St. Louis. In 2024, 
+I am a third-year PhD student in Electrical Engineering and Computer Science (EECS) at MIT, advised by Professor [Ruonan Han](https://hangroup.mit.edu/). Before joining MIT, I completed my undergraduate studies at the University of Electronic Science and Technology of China (UESTC) from 2019 to 2023. I was fortunate to work with Professor [Cheng Wang](https://scholar.google.com/citations?user=syt2VOwAAAAJ&hl=en) on high precision and high speed DAC design. I was also grateful for the opportunity to visit Rice University in 2022, where I worked in Professor [Taiyun Chi](https://chilab.info/)’s group with the wonderful mentorship of [Yingying Fan](https://engineering.washu.edu/faculty/Yingying-Fan.html), who is now an Assistant Professor at Washington University in St. Louis. In 2024, I interned with the Apple Hardware team, working on wireless integrated circuit design.
+
 As a PhD student, my research interests have gradually shifted toward Generative AI, especially language models and agentic AI for mixed-signal IC design. I am broadly interested in agentic reinforcement learning (RL), circuit representation, and AI-assisted circuit design, and I am always happy to connect and collaborate with others who share similar interests.
 Write your biography here.
 
