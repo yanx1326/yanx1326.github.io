@@ -30,6 +30,6 @@ As a PhD student, my research interests have gradually shifted toward Generative
 ### Links
 
 [Email](yanx1326@mit.edu) /
-[LinkedIn](https://www.linkedin.com/in/yan-xu-1326/) /
+[LinkedIn](https://www.linkedin.com/in/yan-xu-1848bb260/) /
 [GitHub](https://github.com/yanx1326) /
 [Google Scholar](https://scholar.google.com/citations?user=B_PpfHYAAAAJ)
